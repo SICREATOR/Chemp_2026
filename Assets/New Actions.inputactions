@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "New Actions",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "b4f543b4-4c36-427d-aae8-0dea60b6814b",
+            "actions": [
+                {
+                    "name": "Show",
+                    "type": "Button",
+                    "id": "bf5a219c-ac03-4114-b524-18b59226bb97",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "3567b03d-0d2a-41c4-8ea4-e9602a830344",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Show",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
